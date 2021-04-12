@@ -7,9 +7,9 @@
 }
 body{
     display: flex;
-    justify-content:center;
+    justify-content: center;
     align-items: center;
-    height:80vh;
+    height: 80vh;
     background-color: black;
     color: #f2f2f2;
 }
@@ -17,6 +17,6 @@ body{
     border: 1px solid white;
     line-height: 4em;
     text-align: center;
-    width:50%;
+    width: 50%;
     padding: 10px;
 }
